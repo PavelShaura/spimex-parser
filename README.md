@@ -16,9 +16,11 @@
  
 Для Windows используйте 
 `venv\Scripts\activate`
+
 3. Установите зависимости:
 
 `pip install poetry` `poetry install`
+
 4. Создайте файл .env в корневой директории проекта на примере файла .env_example
 
 ## Запуск
